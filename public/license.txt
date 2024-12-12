@@ -1,0 +1,8 @@
+Model Information:
+* title:	Fallingwater Interior by Frank Lloyd Wright
+* source:	https://sketchfab.com/3d-models/fallingwater-interior-by-frank-lloyd-wright-d5467117727d4f8aa000a88322a60b2a
+* author:	Myles Zhang (https://sketchfab.com/mdzhang)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
